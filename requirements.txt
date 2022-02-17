@@ -2,4 +2,4 @@ pandas
 gunicorn
 altair
 dash
-plotly==4.14.3
+plotly
